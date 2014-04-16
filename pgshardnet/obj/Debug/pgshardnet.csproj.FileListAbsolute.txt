@@ -1,0 +1,14 @@
+C:\progs.mmtm\pgshardnet\pgshardnet\bin\Debug\pgshardnet.dll
+C:\progs.mmtm\pgshardnet\pgshardnet\bin\Debug\pgshardnet.pdb
+C:\progs.mmtm\pgshardnet\pgshardnet\bin\Debug\Polly.dll
+C:\progs.mmtm\pgshardnet\pgshardnet\bin\Debug\Polly.xml
+C:\progs.mmtm\pgshardnet\pgshardnet\obj\Debug\pgshardnet.csprojResolveAssemblyReference.cache
+C:\progs.mmtm\pgshardnet\pgshardnet\obj\Debug\pgshardnet.dll
+C:\progs.mmtm\pgshardnet\pgshardnet\obj\Debug\pgshardnet.pdb
+C:\progs.git\pgshardnet\pgshardnet\pgshardnet\bin\Debug\pgshardnet.dll
+C:\progs.git\pgshardnet\pgshardnet\pgshardnet\bin\Debug\pgshardnet.pdb
+C:\progs.git\pgshardnet\pgshardnet\pgshardnet\bin\Debug\Polly.dll
+C:\progs.git\pgshardnet\pgshardnet\pgshardnet\bin\Debug\Polly.xml
+C:\progs.git\pgshardnet\pgshardnet\pgshardnet\obj\Debug\Pgshardnet.csprojResolveAssemblyReference.cache
+C:\progs.git\pgshardnet\pgshardnet\pgshardnet\obj\Debug\pgshardnet.dll
+C:\progs.git\pgshardnet\pgshardnet\pgshardnet\obj\Debug\pgshardnet.pdb
